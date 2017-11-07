@@ -1,4 +1,3 @@
-## Rethinking Rethinking Evidence in African American Digital Studies
 
 ### When and Where
 1:45 - 4:45 PM, January 6, 2018  
