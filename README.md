@@ -1,13 +1,4 @@
 
-### When and Where
-1:45 - 4:45 PM, January 6, 2018  
-Studio@Butler  
-208b Butler Library  
-Columbia University  
-Butler Library  
-535 West 114th St.  
-New York, NY 10027  
-
 ### About the Workshop
 Scholars of African American experiences have long insisted that we shift perceptions about evidentiary privilege. Now, in tapping historical and contemporary humanities data, how do notions about evidence and recovery change when we reconsider what gets labeled “absent” or “present?” What are the advantages of meaning-making at the margins? From Colored Conventions to Ida B. Wells to the recent #SayHerName movement, subjects and figures once considered invisible are now core to varied approaches to studying the intersection of race, class, and gender.
 
@@ -25,3 +16,12 @@ Initial collaborators include:
 - Katie Rawson (Emory University)
 - Sarah Patterson (Colored Conventions Project, UMass Amherst)
 - Jim Casey (Colored Conventions Project, Princeton University)
+
+### When and Where
+1:45 - 4:45 PM, January 6, 2018  
+Studio@Butler  
+208b Butler Library  
+Columbia University  
+Butler Library  
+535 West 114th St.  
+New York, NY 10027  
