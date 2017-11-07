@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Rethinking Rethinking Evidence in African American Digital Studies
 
-You can use the [editor on GitHub](https://github.com/REAADS/REAADS.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## When and Where
+1:45 - 4:45 PM, January 6, 2018  
+Studio@Butler  
+208b Butler Library  
+Columbia University  
+Butler Library  
+535 West 114th St.  
+New York, NY 10027  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About the Workshop
+Scholars of African American experiences have long insisted that we shift perceptions about evidentiary privilege. Now, in tapping historical and contemporary humanities data, how do notions about evidence and recovery change when we reconsider what gets labeled “absent” or “present?” What are the advantages of meaning-making at the margins? From Colored Conventions to Ida B. Wells to the recent #SayHerName movement, subjects and figures once considered invisible are now core to varied approaches to studying the intersection of race, class, and gender.
 
-### Markdown
+Building on models in the field, this workshop aims to foster a community of scholars interested in developing digital projects in African American studies. We will do so by igniting a conversation about evidence and data that challenges popular ideas about obscurity and ubiquity connected to Black intellectual enterprises. Along the way, participants will also learn about practices in data curation, mapping, and text analysis. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Join us as we gather at the Studio@Butler to examine these case studies. No previous experience in digital humanities is needed, but those with digital humanities experience at any level are welcomed.  
 
-```markdown
-Syntax highlighted code block
+In this workshop participants will take up the questions about how digital methods can extend or reconstruct the ways that we have thought about, collected, and analyzed evidence. How do we interpret graphs, maps, and more to situate them within larger critical conversations about identity, technology, and evidentiary privilege, thereby transforming African American cultural studies as well as digital humanities?  
 
-# Header 1
-## Header 2
-### Header 3
+The workshop will be led by an interdisciplinary collective focused on nurturing and exploring humanist approaches to the documentation, preservation, and interpretation of African American history and culture.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/REAADS/REAADS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Initial collaborators include: 
+- Caitlin Pollock (Indiana University-Purdue University Indianapolis)
+- Trevor Muñoz (African American History, Culture, and Digital Humanities, University of Maryland)
+- Katie Rawson (Emory University)
+- Sarah Patterson (Colored Conventions Project, UMass Amherst)
+- Jim Casey (Colored Conventions Project, Princeton University)
