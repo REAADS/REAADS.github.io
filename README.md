@@ -19,7 +19,7 @@ Initial collaborators include:
 
 Thanks our partners at Columbia University:
 - Institute for Research in African American Studies (IRAAS)
-- Columbia University Libraries | Digital Scholarship
+- Columbia University Libraries Digital Scholarship
 - Group for Experimental Methods in the Humanities
 
 [Register for the workshop](https://docs.google.com/forms/d/1Jw5YBHl5U6Rp0ZuwcRI3kuO7M2aaP13rklooXQEA7Yw/edit?usp=sharing)
