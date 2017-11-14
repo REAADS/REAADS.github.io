@@ -37,7 +37,7 @@ New York, NY 10027
 (more information and links to data coming soon!)
 
 ### About the Workshop Leaders
-Sarah Lynn Patterson teaches African American literature in the English department at UMass. She specializes in 19th-century African American literature, women writers, Black print culture, gender and morality studies and digital humanities. 
+Sarah Lynn Patterson teaches African American literature in the English department at University of Massachusetts, Amherst. She specializes in 19th-century African American literature, women writers, Black print culture, gender and morality studies and digital humanities. 
 
 Jim Casey is a Perkins Postdoctoral Fellow at the Center for Digital Humanities at Princeton University. He is a co-founder and national co-director of the Colored Conventions Project. His research on the history of editors and his digital practices engage questions of collaboration, access, and collective expression. 
 
