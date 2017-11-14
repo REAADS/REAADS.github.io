@@ -14,10 +14,10 @@ Initial collaborators include:
 - Caitlin Pollock (Indiana University-Purdue University Indianapolis)
 - Trevor Muñoz (African American History, Culture, and Digital Humanities, University of Maryland)
 - Katie Rawson (Emory University)
-- Sarah Patterson (Colored Conventions Project, UMass Amherst)
+- Sarah Patterson (Colored Conventions Project, University of Massachusetts Amherst)
 - Jim Casey (Colored Conventions Project, Princeton University)
 
-Thanks our partners at Columbia University:
+Thanks to our partners at Columbia University:
 - Institute for Research in African American Studies (IRAAS)
 - Columbia University Libraries Digital Scholarship
 - Group for Experimental Methods in the Humanities
