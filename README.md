@@ -34,7 +34,9 @@ Columbia University
 New York, NY 10027  
 
 ### About the Case Studies 
-(more information and links to data coming soon!)
+More information on case studies and data coming soon.
+
+The second case study unpacks 19th-century Black activist-intellectuals’ debates in numbers at the nexus of protest, labor and gender. Together, we’ll consider data drawn from two stand-out Colored Conventions held on both coasts of the US—in California and in Washington, D.C.—during the decade encompassing the American Civil War.
 
 ### About the Workshop Leaders
 Sarah Lynn Patterson teaches African American literature in the English department at University of Massachusetts, Amherst. She specializes in 19th-century African American literature, women writers, Black print culture, gender and morality studies and digital humanities. 
