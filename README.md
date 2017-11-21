@@ -38,6 +38,9 @@ More information on case studies and data coming soon.
 
 The second case study unpacks 19th-century Black activist-intellectuals’ debates in numbers at the nexus of protest, labor and gender. Together, we’ll consider data drawn from two stand-out Colored Conventions held on both coasts of the US—in California and in Washington, D.C.—during the decade encompassing the American Civil War.
 
+The third case study explores the way people on Twitter used the #SayHerName hashtag to “raise awareness for black female victims of police brutality and anti-Black violence in the United States.” How does a social media platform help change notions of evidence? How does treating the social media stream as evidence allow for new interpretations of the interplay between activism and state-sanctioned violence? For this workshop, we will approach the data (approximately three million tweets collected between January and October 2016) as textual evidence that we can “mine,” attending to the affordances and dangers of such methods.
+
+
 ### About the Workshop Leaders
 Sarah Lynn Patterson teaches African American literature in the English department at University of Massachusetts, Amherst. She specializes in 19th-century African American literature, women writers, Black print culture, gender and morality studies and digital humanities. 
 
