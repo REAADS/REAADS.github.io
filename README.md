@@ -34,7 +34,7 @@ Columbia University
 New York, NY 10027  
 
 ### About the Case Studies 
-More information on case studies and data coming soon.
+The first case study investigates 19th century geographic data mapped in 21st century GIS applications and considers how modern technology obstructs and distorts data while visualizing while also providing a secondary perspective. This particular dataset is geographic data of lynching victims text mined from 19th century investigative reporter, Ida B. Wells's second anti-lynching pamphlet, A Red Record. A Red Record documents tabulations of lynchings from two years: 1893 and 1894. This case study will discuss the numerous layers between the user and the data, how digital methodologies of space and place may recreate an opportunity for the public consumption of Black death, and how can we avoid revictimization in datasets of violence and anguish. 
 
 The second case study unpacks 19th-century Black activist-intellectuals’ debates in numbers at the nexus of protest, labor and gender. Together, we’ll consider data drawn from two stand-out Colored Conventions held on both coasts of the US—in California and in Washington, D.C.—during the decade encompassing the American Civil War.
 
