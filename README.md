@@ -41,7 +41,10 @@ The first case study investigates 19th century geographic data mapped in 21st ce
 [https://www.dropbox.com/s/eity341hess0qyh/California_Conventions_Delegate_Index_REAADS.csv?dl=0Dataset](Index of delegates to California Colored Conventions) 
 
 
-The second case study unpacks 19th-century Black activist-intellectuals’ debates in numbers at the nexus of protest, labor and gender. Together, we’ll consider data drawn from two stand-out Colored Conventions held on both coasts of the US—in California and in Washington, D.C.—during the decade encompassing the American Civil War.
+The second case study unpacks 19th-century Black activist-intellectuals’ debates in numbers at the nexus of protest, labor and gender. Together, we’ll consider data drawn from two stand-out Colored Conventions held on both coasts of the US—in California and in Washington, D.C.—during the decade encompassing the American Civil War. Materials are available at: 
+[https://github.com/fickleyouth/Illinois-Workshop](https://github.com/fickleyouth/Illinois-Workshop)
+
+[https://github.com/fickleyouth/IdaBWellsProject](https://github.com/fickleyouth/IdaBWellsProject)
 
 The third case study explores the way people on Twitter used the #SayHerName hashtag to “raise awareness for black female victims of police brutality and anti-Black violence in the United States.” How does a social media platform help change notions of evidence? How does treating the social media stream as evidence allow for new interpretations of the interplay between activism and state-sanctioned violence? For this workshop, we will approach the data (approximately 400,000 tweets collected between January and October 2016) as textual evidence that we can “mine,” attending to the affordances and dangers of such methods.  Materials available at: [https://tinyurl.com/shn-reaads](https://tinyurl.com/shn-reaads)
 
